@@ -17,7 +17,7 @@ exercises: 2
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
-
+Don't forget to check out [new section in the recipe introduction](recipe_intro.md#A-New-Section)
 ## The Night Before
 
 **Mix the dough:**
